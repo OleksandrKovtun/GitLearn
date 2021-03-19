@@ -1,2 +1,4 @@
 First line of song
 And second line of song
+This is thirth line
+And finally last line of song!
